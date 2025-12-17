@@ -63,10 +63,10 @@ We implement and compare two deep learning architectures: **InceptionResNetV2** 
 
 **Example Results (Placeholders):**
 
-| Model               | Test Accuracy | Notes |
-|--------------------|---------------|-------|
-| InceptionResNetV2   | 94.37%         | Slightly better for Glioma and Pituitary |
-| DenseNet201         | 90.02%         | Faster training, smaller model size |
+| Model               | Test Accuracy |
+|--------------------|---------------|
+| InceptionResNetV2   | 94.37%         |
+| DenseNet201         | 90.02%         |
 
 ---
 
