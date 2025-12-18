@@ -80,5 +80,5 @@ git clone https://github.com/Titilegend/Brain-Tumor-MRI-Classification.git
 4.Run the notebook to train or evaluate models
 jupyter notebook notebooks/brain_tumor_classification.ipynb
 
-
+---
 **Note:** This project is intended strictly for **research and educational purposes** and **not for clinical or diagnostic use**.
